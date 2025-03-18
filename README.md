@@ -15,13 +15,15 @@ Includes dependency-checking functions to ensure tasks are correctly linked.
 
 Function Implementations (gantt.c):
 
-createGantt: Allows users to define up to 10 tasks with names, start and end months, and dependencies.
+createGantt: Allows users to define up to 10 tasks with names, start and end months, and dependencies.\n
 printGantt: Displays the Gantt chart as a table with task details and a monthly timeline.
 menuEditTest: Provides an interactive menu for editing tasks and checking dependencies.
 editTask: Enables modifications to task details such as names, dates, and dependencies.
 testDependencies & printDependentTasks: Help users analyze and verify task dependencies.
 checkIfCircular: Detects circular dependencies to prevent errors in task planning.
+
 Key Features
+
 Task Creation & Editing: Users can add and modify tasks, adjusting details as needed.
 Dependency Management: Ensures task relationships are structured properly and prevents circular dependencies.
 Clear Visualization: Displays tasks in a structured table format for easy tracking.
