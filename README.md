@@ -1,4 +1,4 @@
-#Gantt Chart
+# Gantt-Chart
 
 The Gantt Chart Project is a simple and interactive tool designed to help users plan and manage tasks efficiently. It allows users to create a structured timeline, visualize dependencies, and make edits as needed.
 
