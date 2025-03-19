@@ -2,10 +2,6 @@
 
 Creates a customized Gantt Chart designed to help users plan and manage tasks efficiently. It allows users to create a structured timeline, visualize dependencies, and make edits as needed.
 
-## Authors
-- Pranav Aravind (Me)
-- Federica Fucetola
-
 ## Main Program (main.c):
 - Defines the structure of tasks.
 - Handles user interaction.
@@ -29,4 +25,6 @@ Creates a customized Gantt Chart designed to help users plan and manage tasks ef
 - **Clear Visualization**: Displays tasks in a structured table format for easy tracking.
 - **User-Friendly Navigation**: Provides an interactive menu to guide users through task management.
 
-This project offers a practical and efficient way to organize tasks, track progress, and manage dependencies in a structured timeline.
+## Authors
+- Pranav Aravind (Me)
+- Federica Fucetola
