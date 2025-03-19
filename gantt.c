@@ -3,7 +3,7 @@
  *
  *  Created on: 22 feb 2024
  *      Authors: Federica Fucetola - 23922982
- *      Pranav Aravind - 23205030
+ *               Pranav Aravind - 23205030
  */
 
 //Including all the libraries we will need, included our own library gantt.h
