@@ -2,6 +2,10 @@
 
 Creates a customized Gantt Chart designed to help users plan and manage tasks efficiently. It allows users to create a structured timeline, visualize dependencies, and make edits as needed.
 
+## Authors
+- Pranav Aravind (Me)
+- Federica Fucetola
+
 ## Main Program (main.c):
 - Defines the structure of tasks.
 - Handles user interaction.
