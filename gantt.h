@@ -2,8 +2,8 @@
  * gantt.h
  *
  *  Created on: 22 feb 2024
- *      Author: Federica Fucetola - 23922982
- *              Pranav Aravind - 23205030
+ *      Authors: Federica Fucetola - 23922982
+ *               Pranav Aravind - 23205030
  */
 
 
