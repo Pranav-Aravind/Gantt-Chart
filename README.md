@@ -24,7 +24,3 @@ Creates a customized Gantt Chart designed to help users plan and manage tasks ef
 - **Dependency Management**: Ensures task relationships are structured properly and prevents circular dependencies.
 - **Clear Visualization**: Displays tasks in a structured table format for easy tracking.
 - **User-Friendly Navigation**: Provides an interactive menu to guide users through task management.
-
-## Authors
-- Pranav Aravind (Me)
-- Federica Fucetola
