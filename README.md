@@ -1,6 +1,6 @@
 # Gantt-Chart
 
-Created a customized Gantt Chart in C designed to help users plan and manage tasks efficiently. It allows users to create a structured timeline, visualize dependencies, and make edits as needed.
+Created a customized Gantt Chart designed to help users plan and manage tasks efficiently. It allows users to create a structured timeline, visualize dependencies, and make edits as needed.
 
 ## Main Program (main.c):
 - Defines the structure of tasks.
